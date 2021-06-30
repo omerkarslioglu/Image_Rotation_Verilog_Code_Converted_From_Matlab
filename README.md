@@ -35,3 +35,7 @@ the other explains the veirlog code.
 
 - "PROJECT PERORT" project purpose, working stages and project outputs
 We wrote in this file.
+
+
+Ömer Karslıoğlu
+omerkarsliogluu@gmail.com
